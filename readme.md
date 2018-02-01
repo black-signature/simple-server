@@ -22,4 +22,4 @@ The server will listen to port 8000. Access your local files/folders in workspac
 
 ## Author
 
-Balu John Thomas (BJT) [balujohnthomas@pwc.com]
+Balu John Thomas (BJT) [balujohnthomas@gmail.com]
